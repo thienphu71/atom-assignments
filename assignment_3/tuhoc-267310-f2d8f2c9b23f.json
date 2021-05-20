@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tuhoc-267310",
+  "private_key_id": "f2d8f2c9b23f3aaf7317acad214b90301545a914",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWD4ey43kYML1b\n9Z8pTY/1Y6SmSguSalcL0o2HeF7/dAHgRIs4mKPUgTJZLq8/2b2iPaGSwCVqFE6s\nazb9LVIXEIKdWLjjdfn1+PZgtMpoRiWdBZR32Qya3XAk46LL9OkfeP9nxinYU1bD\nTUWUtBz75iB2809hgpDBBqlTE4mWmvb1kBGwBT3ybH3+TK6/Bs0TKwzDm9T6CkA9\nYWJ0KF4z5ztmcrV4ShdJmlUKHlHdppA2EruzePT1UC7cjxNIBH0jw997WJ4OD8vd\nviBFVyGIyL+ms9tMxmQGgNh6Wca3WmKzORUgimGEp8fwUT1h+pHKtRl+G6SYU2gb\nuWGS22exAgMBAAECggEABPKTcZpJ2noH6mf1L4x0IxkUPWaxOUddby/E5yhsU62v\n/GnBKQP4J2l8Cy0lzk0/UZBom153DupcviX1PalOQCu4xR+/mDxKFHoWYbpUAlB6\nvpQaMCHzZWHwXV3ojZvBxqEykAi3v2D/vKBc1xjJobXaMr2hbFDK/Tck8z9cmv87\nl4KMWM64DDFDWloiDJ8n9BpZ8Z3K8vWVQZO4v+FqBlTMdOQAG8m1y9D1bF51xO1w\nLK7D+OQngZPiY4TORT1mryHf+PZKTgfb9ukNorff+tPpiwYmUWmu6tljmicJ8fbn\nLA9TushUEDUoY3N6IiBLjJ6yl+ic4nSlJ68LQjSwgQKBgQD2nKOD6KF8QYJKMoqa\nez5DLv1mP5XY9lEnP/xxhONibNZGzS2S1+Hmz1sgdiAToWZ5hj6YoZS6QiY2R9tr\nlU96vl/cxLpJZUmmC3tXlAHrRyTD9SGjnNWueUPBS7hYZZX+snTl9ItpE7mP/vP6\n4+Qz7iDKNIdW1PNP/Wbv/PsX4QKBgQDeNamxwk7zhSyysvWD+eS/7dg16/atrjOB\nUr7WuLzdvN8M50XlWxp5pvKl4fdgA1hdpf6H8HMOQTBQes+pNh8dbmFUwB9yj6Yq\nFdwbFDLpqbk3ETzP8zQ2igSb4tmxaesR1Kf+/KoyyLDwI8Ac/46gS30/K/f3jyXa\nderafsYJ0QKBgCBmH81aqKyMZrOcxDzbaCinab8fJ26jnbHMZDv9u2nY5qXSmuQp\n3JHYOB6hpkEt+SqKCns+7y0xN5f2BMuziAeWLz3v0pGF7xETfRbaaQ4iAKCF+e9m\n0WPkppQkgImMfxJBG76CTDZ30u8qDZ+uhPKVnFU0ZXtw6q5dmkJ5N/vBAoGBAJm7\nrKxzzyWBhHwZfeyRzeXPSp97oc1lUPLu6WMqqlgKXJLTyrK0RevWSdfkLr45ckBQ\nIHmyLBe3mBKF9PePnxVAkYwN43Ph2EcTmpUNc2/fYWmsvlLsYro84JVs68lnix9p\n7dRmv+WknW12fmpRkD5sG7nB1KtsWPb8T8BcpuyRAoGBAKqfUQzxJLPzjLO4XlCJ\njvEw8nsfhRfQrtb+lHSAnud2XKQHwVjRgfdiJYRhqH0yMqwDTfRiKAmn70A9zKr+\n4+l4a8UK9qRZFtXd6OK/seuefMdaDzJ1ATTJXPDTkcjzluHfbPuQcy/BNjRpUrKq\npnqG1E8bVuGtem8XPxx5joeB\n-----END PRIVATE KEY-----\n",
+  "client_email": "datacracy@tuhoc-267310.iam.gserviceaccount.com",
+  "client_id": "116129597603078375978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datacracy%40tuhoc-267310.iam.gserviceaccount.com"
+}
